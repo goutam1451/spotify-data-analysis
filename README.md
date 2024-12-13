@@ -4,7 +4,7 @@ Spotify Music Analysis - 2023
 
 
 Table Of Contents
-Introduction
+. Introduction
 
 Dataset Description
 
