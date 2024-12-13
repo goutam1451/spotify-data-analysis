@@ -1,20 +1,3 @@
-Spotify Music Analysis - 2023
-
-
-
-
-Table Of Contents
-. Introduction
-
-Dataset Description
-
-Potential Usecases
-
-Getting Started
-
-Exploratory Analysis
-
-
 Introduction
 Welcome to the "Spotify Music Analysis - 2023" project! Here, we're exploring a carefully compiled dataset showcasing the standout songs of 2023, as documented by Spotify.
 
